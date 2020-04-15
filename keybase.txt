@@ -1,0 +1,48 @@
+I hereby claim:
+
+  * I am an admin of https://densmirnov.com
+  * I am densmirnov (https://keybase.io/densmirnov) on keybase.
+  * I have a public key ASDnuI6hzUtTltGElVsCAI6-4YxU573yWMKQb9yUsGPlhQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012af478c729c0548e2fcd6f8ac0ec395ae1586c946a0219a1acd1ac48142728e50a",
+            "host": "keybase.io",
+            "kid": "0120e7b88ea1cd4b5396d184955b02008ebee18c54e7bdf258c2906fdc94b063e5850a",
+            "uid": "cff87c45537fca6924100aa4bab36519",
+            "username": "densmirnov"
+        },
+        "service": {
+            "hostname": "densmirnov.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1474553753,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1474553721,
+        "hash": "6272589940324edebb06783c23b7f78feb3685df371190c3f15d603044e133e6463f0a9093e5c94308b57d24c9c7c2757466ed44d53237d0f2fa8db4e3e46299",
+        "seqno": 648454
+    },
+    "prev": "d6c965e82c52a58689037bd7323a59ed4cd8818a3abc2c94e65894e6685e1de0",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg57iOoc1LU5bRhJVbAgCOvuGMVOe98ljCkG/clLBj5YUKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMmFmNDc4YzcyOWMwNTQ4ZTJmY2Q2ZjhhYzBlYzM5NWFlMTU4NmM5NDZhMDIxOWExYWNkMWFjNDgxNDI3MjhlNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTdiODhlYTFjZDRiNTM5NmQxODQ5NTViMDIwMDhlYmVlMThjNTRlN2JkZjI1OGMyOTA2ZmRjOTRiMDYzZTU4NTBhIiwidWlkIjoiY2ZmODdjNDU1MzdmY2E2OTI0MTAwYWE0YmFiMzY1MTkiLCJ1c2VybmFtZSI6ImRlbnNtaXJub3YifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRlbnNtaXJub3YuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzQ1NTM3NTMsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3NDU1MzcyMSwiaGFzaCI6IjYyNzI1ODk5NDAzMjRlZGViYjA2NzgzYzIzYjdmNzhmZWIzNjg1ZGYzNzExOTBjM2YxNWQ2MDMwNDRlMTMzZTY0NjNmMGE5MDkzZTVjOTQzMDhiNTdkMjRjOWM3YzI3NTc0NjZlZDQ0ZDUzMjM3ZDBmMmZhOGRiNGUzZTQ2Mjk5Iiwic2Vxbm8iOjY0ODQ1NH0sInByZXYiOiJkNmM5NjVlODJjNTJhNTg2ODkwMzdiZDczMjNhNTllZDRjZDg4MThhM2FiYzJjOTRlNjU4OTRlNjY4NWUxZGUwIiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAylQ1c4MeC0oUnJHwdTfbB4M08jbHKACKGapSuHkfjN0f8uBY5vNUAghUDx7+4+w42p7JZCpatC/zvF2+1z9cAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAb1/InjB5/Zk7i7A5LiXRFt0rA9LGrmUgceQTHGg9Bno3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/densmirnov
